@@ -38,3 +38,18 @@ Between 90-100%- Print 'A
 60-80%- Print 'B'
 
 Below 60%- Print 'D'
+
+# Question 11
+WAP that takes two operands and one operator from the user and perform the operation and prints the result by using Switch statement.
+
+# Question 12
+WAP to print the sum of all numbers up to a given number. 
+
+# Question 13
+WAP to find the factorial of a given number.
+
+# Question 14
+WAP to print sum of even and odd numbers from 1 to N numbers.
+
+# Question 15
+WAP to print the Fibonacci series.
